@@ -42,209 +42,320 @@ RR
 33.5	1	0	0	5	6	0	0.0	0
 3	
 
+Travis Head
+SRH
+33.0	1	0	0	9	3	0	0.0	0
+4	
+
 Sanju Samson
 RR
 31.5	1	0	0	7	4	0	0.0	0
-4	
+5	
 
 Sunil Narine
 KKR
 31.5	1	1	5	5	3	0	0.0	0
-5	
+6	
 
 Phil Salt
 RCB
 29.5	1	0	0	9	2	0	0.0	0
-6	
+7	
 
 Ajinkya Rahane
 KKR
 29.0	1	0	0	6	4	0	0.0	0
-7	
+8	
+
+Ruturaj Gaikwad
+CSK
+28.0	1	0	0	6	3	1	0.0	0
+9	
+
+Noor Ahmad
+CSK
+26.0	1	4	12	0	0	0	0.0	0
+10	
+
+Khaleel Ahmed
+CSK
+25.5	1	3	15	0	0	0	0.0	0
+11	
 
 Josh Hazlewood
 RCB
 23.0	1	2	16	0	0	0	0.0	0
-8	
+12	
+
+Deepak Chahar
+MI
+22.0	1	1	5	2	2	0	1.5	0
+13	
 
 Virat Kohli
 RCB
 20.5	1	0	0	4	3	0	0.0	0
-9	
+14	
+
+Vignesh Puthur
+MI
+19.5	1	3	9	0	0	0	0.0	0
+15	
 
 Shimron Hetmyer
 RR
 19.0	1	0	0	1	4	1	0.0	0
-10	
+16	
+
+Rachin Ravindra
+CSK
+19.0	1	0	0	2	4	0	0.0	0
+17	
 
 Krunal Pandya
 RCB
 18.5	1	3	8	0	0	0	0.0	0
-11	
+18	
 
 Heinrich Klaasen
 SRH
 18.5	1	0	0	5	1	1	0.0	0
-12	
+19	
 
 Abhishek Sharma
 SRH
 18.5	1	0	6	5	0	0	0.0	0
-13	
+20	
 
 Tushar Deshpande
 RR
 18.5	1	3	8	0	0	0	0.0	0
-14	
+21	
+
+Will Jacks
+MI
+18.0	1	1	7	2	0	1	0.0	0
+22	
 
 Shubham Dubey
 RR
 16.5	1	0	0	1	4	0	0.0	0
-15	
+23	
 
 Rajat Patidar
 RCB
 16.0	1	0	0	5	1	0	0.0	0
-16	
+24	
 
 Rasikh Dar
 RCB
 15.0	1	1	9	0	0	1	0.0	0
-17	
+25	
 
 Simarjeet Singh
 SRH
 15.0	1	2	8	0	0	0	0.0	0
-18	
+26	
 
 Maheesh Theekshana
 RR
 15.0	1	2	8	0	0	0	0.0	0
-19	
+27	
+
+N Tilak Varma
+MI
+14.5	1	0	0	2	2	1	0.0	0
+28	
 
 Harshal Patel
 SRH
 14.0	1	2	7	0	0	0	0.0	0
-20	
+29	
 
 Nitish Kumar Reddy
 SRH
 13.5	1	0	0	4	1	0	0.0	0
-21	
+30	
+
+Ravindra Jadeja
+CSK
+13.0	1	0	8	1	0	1	0.0	0
+31	
+
+Suyash Sharma
+RCB
+11.5	1	1	8	0	0	0	0.0	0
+32	
+
+Ryan Rickleton
+MI
+11.5	1	0	0	3	0	1	1.5	0
+33	
 
 Mohammed Shami
 SRH
 11.5	1	1	8	0	0	0	0.0	0
-22	
+34	
 
 Varun Chakaravarthy
 KKR
 10.5	1	1	7	0	0	0	0.0	0
-23	
+35	
 
 Liam Livingstone
 RCB
 10.5	1	0	2	2	1	0	0.0	0
-24	
+36	
 
 Yash Dayal
 RCB
 10.5	1	1	7	0	0	0	0.0	0
-25	
+37	
 
 Adam Zampa
 SRH
 10.5	1	1	7	0	0	0	0.0	0
-26	
+38	
 
 Jitesh Sharma
 RCB
 10.0	1	0	0	0	0	4	0.0	0
-27	
+39	
+
+Nathan Ellis
+CSK
+9.5	1	1	6	0	0	0	0.0	0
+40	
 
 Spencer Johnson
 KKR
 9.5	1	0	7	0	0	1	0.0	0
-28	
+41	
+
+Naman Dhir
+MI
+9.5	1	0	7	1	0	0	0.0	0
+42	
+
+Ravichandran Ashwin
+CSK
+9.5	1	1	6	0	0	0	0.0	0
+43	
 
 Pat Cummins
 SRH
 9.0	1	0	4	0	0	2	0.0	0
-29	
+44	
+
+Shivam Dube
+CSK
+8.5	1	0	0	0	1	2	0.0	0
+45	
+
+Angkrish Raghuvanshi
+KKR
+8.5	1	0	0	2	1	0	0.0	0
+46	
 
 Sandeep Sharma
 RR
 8.5	1	1	5	0	0	0	0.0	0
-30	
+47	
+
+Suryakumar Yadav
+MI
+8.5	1	0	0	2	1	0	0.0	0
+48	
+
+Mitchell Santner
+MI
+7.5	1	0	5	1	0	0	0.0	0
+49	
 
 Riyan Parag
 RR
 7.5	1	0	0	1	0	2	0.0	0
-31	
+50	
 
 Vaibhav Arora
 KKR
 7.5	1	1	4	0	0	0	0.0	0
-32	
+51	
 
 Harshit Rana
 KKR
 6.5	1	0	4	1	0	0	0.0	0
-33	
+52	
 
 Yashasvi Jaiswal
 RR
 5.0	1	0	0	0	0	2	0.0	0
-34	
+53	
 
 Abhinav Manohar
 SRH
 5.0	1	0	0	0	0	2	0.0	0
-35	
+54	
 
 Rinku Singh
 KKR
 5.0	1	0	0	1	0	1	0.0	0
-36	
+55	
 
 Nitish Rana
 RR
 5.0	1	0	0	2	0	0	0.0	0
-37	
+56	
+
+Trent Boult
+MI
+4.0	1	0	4	0	0	0	0.0	0
+57	
 
 Jofra Archer
 RR
 3.5	1	0	1	0	0	1	0.0	0
-38	
+58	
 
 Aniket Verma
 SRH
 3.5	1	0	0	0	1	0	0.0	0
-39	
+59	
+
+Fazalhaq Farooqi
+RR
+3.0	1	0	3	0	0	0	0.0	0
+60	
+
+Pvsn Raju
+MI
+2.5	1	0	0	0	0	1	0.0	0
+61	
 
 Devdutt Padikkal
 RCB
 2.5	1	0	0	1	0	0	0.0	0
-40	
+62	
 
 Venkatesh Iyer
 KKR
 2.5	1	0	0	1	0	0	0.0	0
-41	
+63	
 
 Ramandeep Singh
 KKR
 2.5	1	0	0	0	0	1	0.0	0
-42	
+64	
 
 Andre Russell
 KKR
 2.5	1	0	0	1	0	0	0.0	0
-43	
+65	
 
 Quinton De Kock
 KKR
 2.5	1	0	0	1	0	0	0.0	0
+66	
 title sponsor
 tata
 associate partner
